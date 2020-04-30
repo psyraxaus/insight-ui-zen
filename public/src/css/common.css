@@ -390,7 +390,7 @@ margin-left: 0;
 
 /* Set the fixed height of the footer here */
 #footer {
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
   background-color: #373D42;
@@ -849,12 +849,11 @@ a.v_highlight_more {
     width: 280px;
   }
   .navbar-form .form-control {
-    width: 335px;
+    width: 320px;
   }
 }
 
 .horizenlogo {
   width: 165px;
-  margin-top: -6px
+  margin-top: -13px
 }
-
