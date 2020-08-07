@@ -43,7 +43,7 @@ msgid ""
 msgstr ""
 "<strong>insight</strong> 仍然处于开发中, 请记得向我们汇报所有形式的 "
 "bugs和提供反馈以改善 <a href=\"https://github."
-"com/bitpay/insight/issues\" target=\"_blank\">github 问题跟踪器</a>."
+"com/ZencashOfficial/insight-ui-zen/issues\" target=\"_blank\">github 问题跟踪器</a>."
 
 #: public/views/index.html
 msgid "About"

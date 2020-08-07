@@ -42,7 +42,7 @@ msgid ""
 "com/ZencashOfficial/insight-ui-zen/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr ""
 "<strong>insight</strong>は現在開発中です。<a href=\"https://github.com/"
-"bitpay/insight/issues\" target=\"_blank\">githubのissueトラッカ</a>にてバグの"
+"ZencashOfficial/insight-ui-zen/issues\" target=\"_blank\">githubのissueトラッカ</a>にてバグの"
 "報告や改善案の提案をお願いします。"
 
 #: public/views/index.html
